@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311181202256",
+    "project_id": "catchy-6a362",
+    "storage_bucket": "catchy-6a362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311181202256:android:4dc2e623873c59830d5255",
+        "android_client_info": {
+          "package_name": "com.marsad.catchy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbHnfa21oS_9kBZFfNPY0sMVhDU52Ilyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
